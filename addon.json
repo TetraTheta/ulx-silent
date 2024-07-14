@@ -1,5 +1,5 @@
 {
-	"title"		:	"ULX",
+	"title"		:	"ULX Silenced",
 	"type"		:	"ServerContent",
 	"tags"		:	[ "fun", "build" ],
 	"ignore"	:
@@ -11,6 +11,5 @@
 		"README.md",
 		"CHANGELOG.md",
 		"LICENSE.md"
-	],
-	"workshopid": 557962280
+	]
 }
